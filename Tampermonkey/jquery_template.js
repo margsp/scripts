@@ -14,11 +14,11 @@
     'use strict';
 
     $(document).ready(function(){
-           setTimeout(f, 200);
+           setTimeout(manipulateDOM, 500);
     });
 
-    function f() {
-        //DOM operations here
+    function manipulateDOM() {
+        //operations here
     }
 
 })();
