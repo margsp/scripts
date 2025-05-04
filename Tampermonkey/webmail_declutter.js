@@ -7,7 +7,7 @@
 // @match        https://poczta.onet.pl/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=onet.pl
 // @grant        none
-// @require http://code.jquery.com/jquery-3.4.1.min.js
+// @require      http://code.jquery.com/jquery-3.4.1.min.js
 // ==/UserScript==
 
 (function() {
